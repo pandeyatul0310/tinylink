@@ -1,3 +1,6 @@
+
+# Your live deployment URL: https://tinylink-snowy.vercel.app/
+#  Your GitHub repository URL: https://github.com/pandeyatul0310/tinylink
 # TinyLink - URL Shortener
 
 A modern URL shortening service built with Next.js, TypeScript, Tailwind CSS, and PostgreSQL. This application allows users to create short URLs, track click statistics, and manage their links through a clean, responsive interface.
